@@ -4,3 +4,7 @@ scikit-learn
 xlrd
 yfinance
 matplotlib
+torch
+torchvision
+torchaudio
+fastai
