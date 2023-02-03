@@ -2,6 +2,7 @@ pandas
 xgboost
 scikit-learn
 xlrd
+seaborn
 yfinance
 matplotlib
 torch
