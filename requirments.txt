@@ -3,8 +3,8 @@ xgboost
 scikit-learn
 xlrd
 seaborn
-yfinance
 matplotlib
+yfinance
 torch
 torchvision
 torchaudio
